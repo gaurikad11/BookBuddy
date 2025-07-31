@@ -20,4 +20,40 @@
 - **Backend**: Flask (Python)  
 - **Machine Learning**: Scikit-Learn, Pandas, NumPy  
 - **Natural Language Processing (NLP)**: TF-IDF Vectorization, Cosine Similarity  
-- **Frontend**: HTML, CSS, Bootstrap, JavaScript  
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript
+
+---
+
+## ✅ How It Works
+
+1. **User searches a book**:  
+   Enter a book title into the search bar.
+
+2. **System retrieves similar books**:  
+   - **Content-Based Filtering** identifies similar books using metadata.
+   - **Collaborative Filtering** checks what books similar users liked.
+
+3. **Top recommendations are displayed**:  
+   The best-matched 4 books are shown based on similarity and user behavior.
+
+---
+
+## 🚧 Future Enhancements
+
+- 📈 Add user login & personalized dashboard  
+- 🗣️ Include sentiment analysis from user reviews  
+- 🔄 Improve recommendation accuracy using deep learning  
+- 🌍 Integrate with external APIs for real-time book data
+
+---
+
+## 📬 Feedback & Contributions
+
+We welcome contributions and feedback to improve BookBuddy!  
+Feel free to submit a pull request or open an issue.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
