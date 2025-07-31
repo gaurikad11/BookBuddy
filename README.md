@@ -54,6 +54,7 @@ Feel free to submit a pull request or open an issue.
 
 ---
 
-## 📄 License
+## 👨‍💻 Author
 
-This project is licensed under the [MIT License](LICENSE).
+**Gauri Kad**  
+📧 grkad25@gmail.com.com  
